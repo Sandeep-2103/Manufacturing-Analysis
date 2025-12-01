@@ -13,12 +13,17 @@ TOOLS USED : Excel, Tableau , Mysql, Power bi.
 STEP BY STEP WORKFLOW : 
 
 •	Excel Dashboard: Create an initial dashboard using provided Excel data.
+
 •	SQL Integration: Load files into a SQL database under a manufacturing data schema.
+
 •	BI Tool Connection: Connect SQL database to Tableau/Power BI and create a data model with necessary joins.
+
 •	Dashboard Development: Build interactive dashboards in Tableau and Power BI.
+
 •	Quality Assurance (QA): Validate data by comparing database records with dashboards to ensure accuracy.
-•	Final Presentation : Created Final Presentation and Present with PPT order 1-Group Details 2-Summary about 
-the Project 3-KPI List 4-Excel Dashboard 5-Tableau Dashboard 6-Power BI Dashboard 7-SQL Query Image  8-Key Takeaway
+
+•	Final Presentation : Created Final Presentation and Present with PPT order 1-Group Details 2-Summary 
+  about the Project 3-KPI List 4-Excel Dashboard 5-Tableau Dashboard 6-Power BI Dashboard 7-SQL Query Image  8-Key Takeaway
 
 
 MANUFACTURING - ANALYSIS KPI DESCRIPTION  :
@@ -57,13 +62,12 @@ Conclusion & Reporting :
 Summarized findings showing consistent production levels, opportunities to reduce rejections, and chances to optimize specific machines and processes.
 Presented insights through a comprehensive dashboard to support data-driven decision-making in the manufacturing environment.
 
- Manufacturing – Analysis Excel Dashboard :
+MANUFACTURING -ANALYSIS EXCEL DASHBOARD :
 
  <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/b277de58-e248-45c4-8c77-9d856ed60443" />
 
 
- Manufacturing – Analysis Powerbi Dashboard :
-
+MANUFACTURING -ANALYSIS POWERBI DASHBOARD :
 
 
  
@@ -73,7 +77,7 @@ Presented insights through a comprehensive dashboard to support data-driven deci
 
 
 
-  Manufacturing – Analysis Tableau  Dashboard :
+MANUFACTURING -ANALYSIS TABLEAU DASHBOARD :
   
 
  <img width="940" height="530" alt="image" src="https://github.com/user-attachments/assets/bc5584e7-7d7d-4b2c-a0e6-e6da5d8e2095" />
