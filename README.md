@@ -1,4 +1,4 @@
-Manufacturing - Analysis :
+MANUFACTURING ANALYSIS :
 
 This project focuses on analyzing key manufacturing KPIs such as Manufactured Quantity, Rejected Quantity, Processed Quantity, 
 and Wastage Quantity to understand overall production performance. It also includes deeper analysis like employee-wise and machine-wise 
@@ -8,11 +8,9 @@ manufacturing vs rejection analysis highlights which departments perform efficie
 these metrics give stakeholders a complete picture of production quality, efficiency, problem areas, and opportunities for cost 
 reduction and process improvement.
 
-Project steps for Manufacturing-Analysis :
+TOOLS USED : Excel, Tableau , Mysql, Power bi.
 
-Tools used ; Excel, Tableau , Mysql, Power bi.
-
-Step-by-Step workflow: 
+STEP BY STEP WORKFLOW : 
 
 •	Excel Dashboard: Create an initial dashboard using provided Excel data.
 •	SQL Integration: Load files into a SQL database under a manufacturing data schema.
@@ -23,7 +21,7 @@ Step-by-Step workflow:
 the Project 3-KPI List 4-Excel Dashboard 5-Tableau Dashboard 6-Power BI Dashboard 7-SQL Query Image  8-Key Takeaway
 
 
-Manufacturing -Analysis Kpi Description :
+MANUFACTURING - ANALYSIS KPI DESCRIPTION  :
 
 Manufacture Qty - Total number of units produced by the factory.
 Rejected Qty - Units that failed quality checks.
@@ -36,7 +34,7 @@ Manufacture Vs Rejected - Comparison between total produced units and rejected u
 Department Wise Manufacture Vs Rejected -Production vs rejection performance for each department.
 Emp Wise Rejected Qty - Same as employee-wise rejected units (repeated KPI).
 
-Project Process :
+PROJECT PROCESS :
 
 Data Collection & Import : Collected raw manufacturing datasets including production logs, machine performance data, quality inspection reports, 
 and employee shift information. Imported the data into Excel, Power BI, and Tableau for processing and visualization.
@@ -83,7 +81,7 @@ Presented insights through a comprehensive dashboard to support data-driven deci
 
 
 
-Conclusion :
+CONCLUSION :
 
 This project provides a clear and data-driven view of the overall manufacturing performance by tracking key KPIs such as Manufactured Quantity,
 Rejected Quantity, Processed Quantity, and Wastage. By analysing employee-wise and machine-wise rejections, the project helps identify the exact
